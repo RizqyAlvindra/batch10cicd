@@ -38,9 +38,8 @@ pipeline{
 	              docker-compose up -d
 	              exit
 	              EOF"""
-	           }
-	       }   
-	   }
-       }
+                }
+            }
+        }
     }
 }
